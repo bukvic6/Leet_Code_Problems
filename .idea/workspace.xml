@@ -1,14 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0896b8b-e2ed-4be2-9e24-efd9209a10bb" name="Changes" comment="" />
+    <list default="true" id="f0896b8b-e2ed-4be2-9e24-efd9209a10bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstOcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMapdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LengthLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListLenght.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LonghestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patehenth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Piramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quickkki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDupl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondHighest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/insertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -22,7 +83,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,5 +97,20 @@
       <updated>1684425898797</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/out/production/test/Duplicate.class</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,28 +1,34 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Person {
+public class Persone {
+
     public static void main(String[] args) {
+        List<Person> persons = new ArrayList<>();
+        Person jj = new Person(9,"jana",Gender.FEMALE);
+        Person jffj = new Person(30,"jaddna",Gender.FEMALE);
+        Person sfjj = new Person(10,"jdddana",Gender.FEMALE);
 
-        var p1 = new Person(34, "Michael", Gender.MALE);
-        var p2 = new Person(17, "Jane", Gender.FEMALE);
-        var p3 = new Person(28, "John", Gender.MALE);
-        var p4 = new Person(47, "Peter", Gender.MALE);
-        var p5 = new Person(27, "Lucy", Gender.FEMALE);
-
-        var persons = List.of(p1, p2, p3, p4, p5);
-
-        var result = new ArrayList<Person>();
-
-        for (Person person: persons) {
-
-            if (person.getAge() > 30) {
-
-                result.add(person);
+        persons.add(jj);
+        persons.add(jffj);
+        persons.add(sfjj);
+        List<Person> dd = new ArrayList<>();
+        for(Person person : persons){
+            if (person.getAge() < 20){
+                dd.add(person);
             }
-        }
 
-        System.out.println(result);
+        }
+        System.out.println(dd);
+
+
+
+
     }
+    enum Gender {
+        MALE, FEMALE
+    }
+
+
 
 }
